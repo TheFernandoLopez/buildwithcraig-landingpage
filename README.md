@@ -1,6 +1,8 @@
-# buildwithcraig-landingpage
-## First Draft
+# Morning Clock-in
+## February 18th,2016
 <p>We could just start typing text here.</p>
 
-### February 17th, 2016
-<p>Our class finally did a push to GitHub. :-)</p>
+# Online Marketing Quiz
+## February !9th,2016
+<p>Text</p>
+

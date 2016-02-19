@@ -6,11 +6,12 @@ header {
 
 main {
     width:90%;
-    margin:0px auto;
+    margin:20px auto;
 }
 
 footer{
-    height:150px;
+    height:300px;
+    text-align:center;
     background-color: #FF7900;
     padding:40px; 
 
@@ -19,6 +20,8 @@ footer{
 footer p {
     color:#FFFFFF;
     text-align:center;
+
+}
 
 /*BUTTON STLES*/
 

@@ -3,6 +3,6 @@
 <p>We could just start typing text here.</p>
 
 # Online Marketing Quiz
-## February !9th,2016
+## February 19th, 2016
 <p>Text</p>
 
